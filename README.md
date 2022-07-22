@@ -16,7 +16,7 @@ The objective is to predict the location and type of vehicle found in the scene 
 - The submission consists of a document which describes the flowcharts and explain why you make use of the particular algorithm to solve the problem along with the results and discussions on the accuracy (if your model is not working on some data, show the same and explain why it is not working as per your understanding)
 - The code has to be properly commented and should follow PEP8 rules. The code should be written in modular format. For example, data preparation, model training and model inference and result visualisations 
 
-> Dataset Link: https://www.kaggle.com/datasets/3e52fd8c6f9968df54c425a911f3fe43a13dd2860df34f2de3dd7ab4d74606b8
+> Dataset Link: https://www.kaggle.com/datasets/pratikbarua/vehicle-detection-dataset
 
 ## Evaluation
 The evaluation will be on following parameters 
