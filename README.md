@@ -12,7 +12,7 @@ The objective is to predict the location and type of vehicle found in the scene 
   - Proper documentation and report the evaluation metrices
 
 ## Time Line
-- The last date of submission is before 29-July-2022
+- The last date of submission is before 
 - Late submissions will not be considered for evaluation
 - The submission consists of a document which describes the flowcharts and explain why you make use of the particular algorithm to solve the problem along with the results and discussions on the accuracy (if your model is not working on some data, show the same and explain why it is not working as per your understanding)
 - The code has to be properly commented and should follow PEP8 rules. The code should be written in modular format. For example, data preparation, model training and model inference and result visualisations 
@@ -26,4 +26,4 @@ The evaluation will be on following parameters
 - Documentation - 30%
 
 ## Email Your github repo to : hr@dhvaniai.com 
-## Last Date for Submission : 29-July-2022
+## Last Date for Submission : 
