@@ -1,9 +1,9 @@
 # Hackathon-2022
-1.Write an algorithm to find the defect in the images given below. 
+1. Write an algorithm to find the defect in the images given below. 
 ### Good Image
 <img src=good.png width="20%" height="20%">
 
-### Defect Image
+### Defect Images
 <img src=defect1.png width="20%" height="20%">
 <img src=defect2.png width="20%" height="20%">
 <img src=defect3.png width="20%" height="20%">
