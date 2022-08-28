@@ -1,9 +1,13 @@
 # Hackathon-2022
-1. Write an algorithm that will detect the defect in the images given below. It is not important to localise the defect rather your algorithm should print if there is some defects. you system should print the defect in to flashes and cuts
+1. Write an algorithm that will detect the defect in the images given below. Breakup of the mark is as given below
+  1. Flowchart - 20 marks
+  2. Basic algorithm to find defects - 40 marks
+  3. Localizing the defect - 20
+  4. Classify the defect to flashes and cut marks - 20
 ### Good Image
 <img src=good.png width="20%" height="20%">
 
-### Defect Images
+### Defective Images
 1. Flashes
 <img src=defect1.png width="20%" height="20%">
 <img src=defect4.png width="20%" height="20%">
@@ -12,6 +16,7 @@
 <img src=defect3.png width="20%" height="20%">
 
 
+$x^2$
 
 
 
