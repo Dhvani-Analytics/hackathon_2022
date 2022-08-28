@@ -2,6 +2,7 @@
 1.Write an algorithm to find the defect in the images given below. 
 ### Good Image
 <img src=good.png width="20%" height="20%">
+
 ### Defect Image
 <img src=defect1.png width="20%" height="20%">
 <img src=defect2.png width="20%" height="20%">
