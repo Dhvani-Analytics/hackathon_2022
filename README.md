@@ -1,9 +1,9 @@
 # Hackathon-2022
 1. Write an algorithm that will detect the defect in the images given below. Breakup of the mark is as given below
-  1. Flowchart - 20 marks
-  2. Basic algorithm to find defects - 40 marks
-  3. Localizing the defect - 20
-  4. Classify the defect to flashes and cut marks - 20
+  > Flowchart - 20 marks
+  > Basic algorithm to find defects - 40 marks
+  > Localizing the defect - 20
+  > Classify the defect to flashes and cut marks - 20
 ### Good Image
 <img src=good.png width="20%" height="20%">
 
