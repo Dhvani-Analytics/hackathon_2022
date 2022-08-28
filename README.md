@@ -20,7 +20,7 @@
 
 $ \dot{x} = a*(y - b) $ 
 $ \dot{y} = b*x - y - x*z $
-$ \dot{z} = x*y - c*z 
+$ \dot{z} = x*y - c*z $ 
 
 
 
