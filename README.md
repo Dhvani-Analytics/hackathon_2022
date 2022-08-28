@@ -1,13 +1,16 @@
 # Hackathon-2022
-1. Write an algorithm to find the defect in the images given below. 
+1. Write an algorithm that will detect the defect in the images given below. It is not important to localise the defect rather your algorithm should print if there is some defects. you system should print the defect in to flashes and cuts
 ### Good Image
 <img src=good.png width="20%" height="20%">
 
 ### Defect Images
+1. Flashes
 <img src=defect1.png width="20%" height="20%">
+<img src=defect4.png width="20%" height="20%">
+2. Cuts
 <img src=defect2.png width="20%" height="20%">
 <img src=defect3.png width="20%" height="20%">
-<img src=defect4.png width="20%" height="20%">
+
 
 
 
