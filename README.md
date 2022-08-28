@@ -1,6 +1,13 @@
 # Hackathon-2022
 ## Module 1 - Computer Vision
 * Write an algorithm to find the defect in the images given below. 
+![good](url "https://github.com/Dhvani-Analytics/hackathon_2022/blob/main/good.png")
+
+![good](url "https://github.com/Dhvani-Analytics/hackathon_2022/blob/main/defect1.png")
+![good](url "https://github.com/Dhvani-Analytics/hackathon_2022/blob/main/defect2.png")
+![good](url "https://github.com/Dhvani-Analytics/hackathon_2022/blob/main/defect3.png")
+![good](url "https://github.com/Dhvani-Analytics/hackathon_2022/blob/main/defect4.png")
+
 
 
 
