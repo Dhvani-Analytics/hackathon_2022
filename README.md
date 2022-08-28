@@ -15,8 +15,9 @@
 <img src=defect2.png width="20%" height="20%">
 <img src=defect3.png width="20%" height="20%">
 
+2.Write a program to plot following equation
 
-$x^2$
+$\dot{x} = s*(y-b)$
 
 
 
