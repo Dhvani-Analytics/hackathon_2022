@@ -1,4 +1,7 @@
 # Hackathon-2022
+Welcome to our Hackathon-2022. Through this hackathon we are trying to select interns have passion to work in computer vision and deep learning. We have internships positions for a couple of projects from Defect Recognition to Multi-Camera Multi object Tracking. You can select either C++/Python to solve these coding assignments. Best of luck everyone  
+
+
 1. Write an algorithm that will detect the defect in the images given below. Breakup of the mark is as given below
   > Flowchart - 20 marks
   
