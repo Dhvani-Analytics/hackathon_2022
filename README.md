@@ -45,7 +45,7 @@ Total : 100 marks
 
 > Flowchart/Blockdiagram - 25 marks
 
-> Create an algorithm to identify the objects and classify - 40 (Percentile. The person who submitting the highest accuracy will get 40 and others mark will be normalised) 
+> Create a deep learning model to identify the objects and classify - 40 (Percentile. The person who submitting the highest accuracy will get 40 and others mark will be normalised) 
 
 > Evaluation metrics and plots - 25
 
