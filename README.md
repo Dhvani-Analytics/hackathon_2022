@@ -34,7 +34,6 @@ $$\dot{y} = b*x - y - x*z$$
 
 $$\dot{z} = x*y - c*z$$ 
 
-Tip : This is an iterative equation. Try to find the points over time by writing derivative equation 
 
 Total : 100 marks
 
