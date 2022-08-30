@@ -3,7 +3,7 @@ Welcome to our Hackathon-2022. Through this hackathon we are trying to select in
 
 * Use issues to ask any queries 
 
-* make use you use the images given in the dataset rather than using any other public images. That is if a problem has limited dataset that is a constraint and you have to develop a algorithm optimal with respect to the constraint 
+* Only make use you use the images given in the dataset rather than using any other public images. That is if a problem has limited dataset that is a constraint and you have to develop a algorithm optimal with respect to the constraint 
 
 1. Write an algorithm that will detect the defect in the images given below. Breakup of the mark is as given below
   > Flowchart - 20 marks
