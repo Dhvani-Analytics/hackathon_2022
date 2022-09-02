@@ -6,6 +6,8 @@ Welcome to our Hackathon-2022. Through this hackathon we are trying to select in
 * Only make use you use the images given in the dataset rather than using any other public images. That is if a problem has limited dataset that is a constraint and you have to develop a algorithm optimal with respect to the constraint 
 
 1. Write an algorithm that will detect the defect in the images given below. Breakup of the mark is as given below
+** Expecting a general algorithm that works for different diameter, transaltions during image acquisiton etc . 
+
   > Flowchart - 20 marks
   
   > Basic algorithm to find defects - 40 marks
@@ -26,7 +28,8 @@ Welcome to our Hackathon-2022. Through this hackathon we are trying to select in
 
 <img src=defect2.png width="20%" height="20%"> <img src=defect3.png width="20%" height="20%">
 
-2. Write a program to plot following equation over time(that is values of x,y,z). Assume $x,y,z$ are points in 3d space in which $x_{0} = 0, y_{0} = 1, z_{0} = 1.05$ and $a = 10,b = 28,c = 2.667$ are the parameters and $\dot{x} = \frac{dx}{dt}$, similar for $y$ and $z$ 
+2. Write a program to plot following equation over ). Assume $x,y,z$ are points in 3d space in which $x_{0} = 0, y_{0} = 1, z_{0} = 1.05$ and $a = 10,b = 28,c = 2.667$ are the parameters and $\dot{x} = \frac{dx}{dt}$, similar for $y$ and $z$ 
+** Not expecting a solution using packges of differential equation solvers :) 
 
 $$\dot{x}=a*(y - b)$$ 
 
