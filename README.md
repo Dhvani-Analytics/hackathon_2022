@@ -28,7 +28,9 @@ Welcome to our Hackathon-2022. Through this hackathon we are trying to select in
 
 <img src=defect2.png width="20%" height="20%"> <img src=defect3.png width="20%" height="20%">
 
-2. Write a program to plot following equation over ). Assume $x,y,z$ are points in 3d space in which $x_{0} = 0, y_{0} = 1, z_{0} = 1.05$ and $a = 10,b = 28,c = 2.667$ are the parameters and $\dot{x} = \frac{dx}{dt}$, similar for $y$ and $z$ 
+2. Write a program to plot following equation over time. the equation defines a dynamical system in which position of the system changes with time . you have to plot the positions over time. Think of this as a Bee moving in 3d space. you need to plot the path taken by the Bee. 
+
+Assume $x,y,z$ are points in 3d space in which $x_{0} = 0, y_{0} = 1, z_{0} = 1.05$ and $a = 10,b = 28,c = 2.667$ are the parameters and $\dot{x} = \frac{dx}{dt}$, similar for $y$ and $z$ 
 ** Not expecting a solution using packges of differential equation solvers :) 
 
 $$\dot{x}=a*(y - b)$$ 
