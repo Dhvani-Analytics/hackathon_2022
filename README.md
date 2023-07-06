@@ -35,13 +35,13 @@ Assume $x,y,z$ are points in 3d space in which $x_{0} = 0, y_{0} = 1, z_{0} = 1.
 $$\dot{x}=a*(y - b)$$
 
 
+```math
+\dot{y} = b*x - y - x*z
+```
 
-
-$$\dot{y} = b*x - y - x*z$$
-
-
-
-$$\dot{z} = x*y - c*z$$
+```math
+\dot{z} = x*y - c*z
+```
 
 
 Total : 100 marks
