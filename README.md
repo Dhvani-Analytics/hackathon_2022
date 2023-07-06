@@ -1,4 +1,4 @@
-# Hackathon-2022
+# Hackathon- computer vision
 Welcome to our Hackathon-2022. Through this hackathon we are trying to select interns have passion to work in computer vision and deep learning. We have internships positions for a couple of projects from Defect Recognition to Multi-Camera Multi object Tracking. You can select either C++/Python to solve these coding assignments. Best of luck everyone  
 
 * Use issues to ask any queries 
@@ -63,4 +63,3 @@ Total : 100 marks
 - The code has to be properly commented and should follow PEP8 rules. The code should be written in modular format. For example, data preparation, model training and model inference and result visualisations 
 
 ## Email Your github repo to : hr@dhvaniai.com 
-## Last Date for Submission : September - 8, 2022
